@@ -1,0 +1,1 @@
+export { default as EmployeeViewModelNames, IEmployeeViewModel, employeeViewModelAttributes } from './employeeViewModel'

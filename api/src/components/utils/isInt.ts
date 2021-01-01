@@ -1,0 +1,1 @@
+export default (num : number) => typeof num === 'number' && num !== NaN && ((num ^ 0) === num)

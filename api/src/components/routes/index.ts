@@ -1,0 +1,1 @@
+export { default as employeeRoute } from './employee/employee'

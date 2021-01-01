@@ -1,0 +1,8 @@
+* {
+  font-family: Arial;
+}
+
+.check-box {
+  cursor: pointer !important;
+  color: #C7C9CF
+}

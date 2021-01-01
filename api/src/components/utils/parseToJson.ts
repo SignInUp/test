@@ -1,0 +1,1 @@
+export default (arr: any) => JSON.parse(JSON.stringify(arr))
